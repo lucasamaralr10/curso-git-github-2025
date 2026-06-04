@@ -8,3 +8,8 @@ esse arquivo contém informações adicionais para git
 - comandos estranhos
 
 
+# Mais comandos !!!
+
+assdasd
+aadad
+sdasddada
